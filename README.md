@@ -1,10 +1,33 @@
-- 👋 Hi, I’m JOYDEEP GHOSH
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning DAta structures,web development.
-- 💞️ I’m looking to collaborate on projects .
-- 📫 you can recah me through my mail .
-
-<!---
-mejoy123/mejoy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi 👋, I'm Joydeep Ghosh  
+🎯 Aspiring Software Development Engineer (SDE)  
+💻 Software Engineer @ Coforge | Performance & Infrastructure  
+📍 India  
+---
+### 🚀 About Me
+- 🔭 Currently working as a **Performance Engineer** using **JMeter & Java**
+- 🌱 Actively learning **Data Structures & Algorithms**, **Python**, and **System Design**
+- 🎯 Targeting **product-based companies (FAANG-level SDE roles)**
+- 🧠 Strong interest in **scalable systems & backend engineering**
+---
+### 🛠️ Tech Stack
+**Languages:**  
+- Java, Python 
+**Core CS:**  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- System Design (Basics)  
+**Tools & Tech:**  
+- Apache JMeter, LoadRunner  
+- Git & GitHub  
+- Linux (Basics)  
+---
+### 📌 What I’m Working On
+- 📘 Daily **DSA practice (LeetCode)**
+- 🧪 Software testing frameworks
+- 🧠 Building strong problem-solving skills for interviews
+---
+### 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/joydeep-ghosh-514253211  
+- 📧 Email: ghoshjoydeep32@gmail.com  
+---
+⭐ *Open to collaboration on Java / Python / DSA projects*
